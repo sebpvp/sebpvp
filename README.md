@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebpvp</h1>
 <h3 align="center">Network engineer</h3>
 
+<div align="center">
 [website]: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 [discord]: #
 [twitch]: #
@@ -12,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebpvp&label=Profile%20views&color=0e75b6&style=flat" alt="sebpvp" /> </p>
 
-<div align="center">
+
  🔭 I’m currently working on **IA minecraft bot**
 
  🌱 I’m currently learning **IA**
