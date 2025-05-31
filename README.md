@@ -13,15 +13,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebpvp&label=Profile%20views&color=0e75b6&style=flat" alt="sebpvp" /> </p>
 
 <div align="center">
-- 🔭 I’m currently working on **IA minecraft bot**
+ 🔭 I’m currently working on **IA minecraft bot**
 
-- 🌱 I’m currently learning **IA**
+ 🌱 I’m currently learning **IA**
 
-- 👨‍💻 All of my projects are available at [#](#)
+ 👨‍💻 All of my projects are available at [#](#)
 
-- 💬 Ask me about **Hardware, Minecraft, Discord, Docker**
+ 💬 Ask me about **Hardware, Minecraft, Discord, Docker**
 
-- 📫 How to reach me **sebastiengamepvp@gmail.com**
+ 📫 How to reach me **sebastiengamepvp@gmail.com**
 
  </div>
 
