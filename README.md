@@ -8,9 +8,9 @@
 [twitch]: #
 
 ### My networks :
-[<img align="left" alt="francememes.com" width="32px" src="https://api.iconify.design/bi:globe.svg?color=%23DA83FE&height=32" target="_blank" />][website]
-[<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/simple-icons:discord.svg?color=%23DA83FE&height=32" target="_blank" />][discord]
-[<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/simple-icons:twitch.svg?color=%23DA83FE&height=32" target="_blank" />][twitch]
+[<img  alt="francememes.com" width="32px" src="https://api.iconify.design/bi:globe.svg?color=%23DA83FE&height=32" target="_blank" />][website]
+[<img  alt="Discord" width="32px" src="https://api.iconify.design/simple-icons:discord.svg?color=%23DA83FE&height=32" target="_blank" />][discord]
+[<img  alt="Twitch" width="32px" src="https://api.iconify.design/simple-icons:twitch.svg?color=%23DA83FE&height=32" target="_blank" />][twitch]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebpvp&label=Profile%20views&color=0e75b6&style=flat" alt="sebpvp" /> </p>
 
