@@ -11,7 +11,8 @@
 [<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/simple-icons:twitch.svg?color=%23DA83FE&height=32" target="_blank" />][twitch]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebpvp&label=Profile%20views&color=0e75b6&style=flat" alt="sebpvp" /> </p>
-<p align="center">
+
+<div align="center">
 - 🔭 I’m currently working on **IA minecraft bot**
 
 - 🌱 I’m currently learning **IA**
@@ -22,7 +23,7 @@
 
 - 📫 How to reach me **sebastiengamepvp@gmail.com**
 
- </p>
+ </div>
 
 
 <h3 align="left">Languages and Tools:</h3>
