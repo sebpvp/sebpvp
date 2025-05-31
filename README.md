@@ -7,13 +7,15 @@
 [discord]: #
 [twitch]: #
 
+</br>
+
 ### My networks :
 [<img  alt="francememes.com" width="32px" src="https://api.iconify.design/bi:globe.svg?color=%23DA83FE&height=32" target="_blank" />][website]
 [<img  alt="Discord" width="32px" src="https://api.iconify.design/simple-icons:discord.svg?color=%23DA83FE&height=32" target="_blank" />][discord]
 [<img  alt="Twitch" width="32px" src="https://api.iconify.design/simple-icons:twitch.svg?color=%23DA83FE&height=32" target="_blank" />][twitch]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebpvp&label=Profile%20views&color=0e75b6&style=flat" alt="sebpvp" /> </p>
-
+<p> <img src="https://komarev.com/ghpvc/?username=sebpvp&label=Profile%20views&color=0e75b6&style=flat" alt="sebpvp" /> </p>
+</br>
 
  🔭 I’m currently working on **IA minecraft bot**
 
