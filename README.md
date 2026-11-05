@@ -26,8 +26,8 @@ Passionné par l'administration systèmes et réseaux, je conçois et exploite d
 
 - Montée en compétences sur le CI/CD et le durcissement sécurité
 - Observabilité : métriques et logs
-- Préparation d'une formation en administration systèmes et réseaux (BTS SIO)
 - Veille sur l'IA locale (LLM et multimodal)
+- Veille en cybersécurité et sur les nouvelles techniques de cyberdéfense propulsées par l'intelligence artificielle
 
 ## 🧰 Stack
 
