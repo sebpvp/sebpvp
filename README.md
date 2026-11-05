@@ -1,13 +1,16 @@
 <h1 align="center">Sébastien · SEBPVP</h1>
-<h3 align="center">Administrateur systèmes & réseaux · DevOps junior</h3>
-<p align="center">📍 Hauts-de-France, France · 🔎 En recherche d'emploi / alternance</p>
+<h3 align="center">Administrateur systèmes & réseaux · DevOps junior<br/>Systems & Network Administrator · Junior DevOps</h3>
+<p align="center">📍 Hauts-de-France, France · 🔎 En recherche d'emploi / alternance · Open to work</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TON-PROFIL/">LinkedIn</a> ·
-  <a href="mailto:sebastiengamepvp@gmail.com">Email</a>
+  <a href="mailto:sebastiengamepvp@gmail.com">Email</a> ·
+  <a href="#-english">🇬🇧 English</a>
 </p>
 
 ---
+
+# 🇫🇷 Français
 
 ## 👨‍💻 À propos
 
@@ -29,6 +32,42 @@ Passionné par l'administration systèmes et réseaux, je conçois et exploite d
 - Veille sur l'IA locale (LLM et multimodal)
 - Veille en cybersécurité et sur les nouvelles techniques de cyberdéfense propulsées par l'intelligence artificielle
 
+## 📫 Me contacter
+
+Ouvert aux opportunités en administration systèmes/réseaux, support N2 et DevOps junior.
+Écris-moi par [email](mailto:sebastiengamepvp@gmail.com) ou sur LinkedIn.
+
+---
+
+# 🇬🇧 English
+
+## 👨‍💻 About
+
+Passionate about systems and network administration, I design and run Linux infrastructure on my own: Linux servers, Docker containers, monitoring and automation. My testing ground is a scalable Minecraft server infrastructure.
+
+## 🛠️ What I do
+
+- **Linux administration**: Debian VPS and servers, SSH hardening, access management and updates
+- **Containers and deployment**: Docker, Docker Compose, K8s, development of Java plugins for servers and the proxy, tailored to community needs.
+- **Network and proxy**: Velocity, Nginx reverse proxy, firewall rules
+- **Monitoring**: metrics and dashboards with Grafana, incident diagnosis and resolution: performance, network, storage and service availability.
+- **Development**: Java plugins, Discord bots, Python scripts
+- **CI/CD**: GitHub Actions (currently learning)
+
+## 🔭 Currently
+
+- Building skills in CI/CD and security hardening
+- Observability: metrics and logs
+- Exploring local AI (LLM and multimodal)
+- Monitoring cybersecurity and new AI-powered cyber defense techniques
+
+## 📫 Contact
+
+Open to opportunities in systems/network administration, L2 support and junior DevOps roles.
+Reach me by [email](mailto:sebastiengamepvp@gmail.com) or on LinkedIn.
+
+---
+
 ## 🧰 Stack
 
 <p align="left">
@@ -48,10 +87,5 @@ Passionné par l'administration systèmes et réseaux, je conçois et exploite d
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebpvp&show_icons=true&locale=fr" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sebpvp&show_icons=true" alt="GitHub stats" />
 </p>
-
-## 📫 Me contacter
-
-Ouvert aux opportunités en administration systèmes/réseaux, support N2 et DevOps junior.
-Écris-moi par [email](mailto:sebastiengamepvp@gmail.com) ou sur LinkedIn.
