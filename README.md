@@ -19,10 +19,10 @@ Passionné par l'administration systèmes et réseaux, je conçois et exploite d
 ## 🛠️ Ce que je fais
 
 - **Administration Linux**: VPS et serveurs Debian, durcissement SSH, gestion des accès et des mises à jour
-- **Conteneurs et déploiement**: Docker, Docker Compose, K8s , Développement de plugins Java pour les serveurs et le proxy, adaptés aux besoins de la communauté.
+- **Conteneurs et déploiement**: Docker, Docker Compose, K8s
 - **Réseau et proxy**: Velocity, reverse proxy Nginx, règles de pare-feu
-- **Supervision**: métriques et dashboards avec Grafana, Diagnostic et résolution d'incidents : performances, réseau, stockage et disponibilité des services.
-- **Développement**: plugins Java, bots Discord, scripts Python
+- **Supervision et dépannage**: métriques et dashboards avec Grafana, diagnostic et résolution d'incidents (performances, réseau, stockage, disponibilité des services)
+- **Développement**: plugins Java pour serveurs et proxy adaptés aux besoins de la communauté, bots Discord, scripts Python
 - **CI/CD**: GitHub Actions (en cours d'apprentissage)
 
 ## 🔭 En ce moment
@@ -48,10 +48,10 @@ Passionate about systems and network administration, I design and run Linux infr
 ## 🛠️ What I do
 
 - **Linux administration**: Debian VPS and servers, SSH hardening, access management and updates
-- **Containers and deployment**: Docker, Docker Compose, K8s, development of Java plugins for servers and the proxy, tailored to community needs.
+- **Containers and deployment**: Docker, Docker Compose, K8s
 - **Network and proxy**: Velocity, Nginx reverse proxy, firewall rules
-- **Monitoring**: metrics and dashboards with Grafana, incident diagnosis and resolution: performance, network, storage and service availability.
-- **Development**: Java plugins, Discord bots, Python scripts
+- **Monitoring and troubleshooting**: metrics and dashboards with Grafana, incident diagnosis and resolution (performance, network, storage, service availability)
+- **Development**: Java plugins for servers and proxy tailored to community needs, Discord bots, Python scripts
 - **CI/CD**: GitHub Actions (currently learning)
 
 ## 🔭 Currently
