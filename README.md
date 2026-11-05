@@ -16,9 +16,9 @@ Passionné par l'administration systèmes et réseaux, je conçois et exploite d
 ## 🛠️ Ce que je fais
 
 - **Administration Linux**: VPS et serveurs Debian, durcissement SSH, gestion des accès et des mises à jour
-- **Conteneurs et déploiement**: Docker, Docker Compose, panel Pterodactyl
+- **Conteneurs et déploiement**: Docker, Docker Compose, K8s , Développement de plugins Java pour les serveurs et le proxy, adaptés aux besoins de la communauté.
 - **Réseau et proxy**: Velocity, reverse proxy Nginx, règles de pare-feu
-- **Supervision**: métriques et dashboards avec Grafana
+- **Supervision**: métriques et dashboards avec Grafana, Diagnostic et résolution d'incidents : performances, réseau, stockage et disponibilité des services.
 - **Développement**: plugins Java, bots Discord, scripts Python
 - **CI/CD**: GitHub Actions (en cours d'apprentissage)
 
