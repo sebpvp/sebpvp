@@ -11,7 +11,7 @@
 
 ## 👨‍💻 À propos
 
-Passionné par l'administration systèmes et réseaux, je conçois et exploite des infrastructures Linux en autonomie : serveurs Debian, conteneurs Docker, supervision et automatisation. Mon terrain d'expérimentation : une infrastructure de serveurs Minecraft scalable.
+Passionné par l'administration systèmes et réseaux, je conçois et exploite des infrastructures Linux en autonomie : serveurs linux, conteneurs Docker, supervision et automatisation. Mon terrain d'expérimentation : une infrastructure de serveurs Minecraft scalable.
 
 ## 🛠️ Ce que je fais
 
