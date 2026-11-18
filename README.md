@@ -70,19 +70,29 @@ Reach me by [email](mailto:sebastiengamepvp@gmail.com) or on LinkedIn.
 
 ## 🧰 Stack
 
-<p align="left">
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.debian.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/></a>
-  <a href="https://grafana.com"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://mariadb.org/"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="130"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60" alt="Linux"/><br/>Linux</a></td>
+    <td align="center" width="130"><a href="https://www.debian.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="60" height="60" alt="Debian"/><br/>Debian</a></td>
+    <td align="center" width="130"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/><br/>Docker</a></td>
+    <td align="center" width="130"><a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="60" height="60" alt="Kubernetes"/><br/>Kubernetes</a></td>
+    <td align="center" width="130"><a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="60" height="60" alt="Nginx"/><br/>Nginx</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://grafana.com"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="60" height="60" alt="Grafana"/><br/>Grafana</a></td>
+    <td align="center"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" alt="Java"/><br/>Java</a></td>
+    <td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/><br/>Python</a></td>
+    <td align="center"><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" alt="Git"/><br/>Git</a></td>
+    <td align="center"><a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="60" height="60" alt="GitHub Actions"/><br/>GitHub Actions</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://mariadb.org/"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="60" height="60" alt="MariaDB"/><br/>MariaDB</a></td>
+    <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL"/><br/>MySQL</a></td>
+    <td align="center"><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/><br/>Node.js</a></td>
+    <td align="center"><a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="60" height="60" alt="Bash"/><br/>Shell Scripting</a></td>
+    <td align="center"><a href="https://github.com/sebpvp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/><br/>GitHub</a></td>
+  </tr>
+</table>
 
 ## 📊 GitHub
 
