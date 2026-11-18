@@ -1,100 +1,114 @@
 <h1 align="center">Sébastien · SEBPVP</h1>
 <h3 align="center">Administrateur systèmes & réseaux · DevOps junior<br/>Systems & Network Administrator · Junior DevOps</h3>
-<p align="center">📍 Hauts-de-France, France · 🔎 En recherche d'emploi / alternance · Open to work</p>
+<p align="center">Hauts-de-France, France · En recherche d'emploi / alternance · Open to work</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/TON-PROFIL/">LinkedIn</a> ·
-  <a href="mailto:sebastiengamepvp@gmail.com">Email</a> ·
-  <a href="#-english">🇬🇧 English</a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/TON-PROFIL/) · [Email](mailto:sebastiengamepvp@gmail.com) · [English](#english)
 
----
+# Français
 
-# 🇫🇷 Français
+## À propos
 
-## 👨‍💻 À propos
+Passionné par l'administration systèmes et réseaux, je conçois et exploite des infrastructures Linux en autonomie : serveurs Debian, conteneurs Docker, supervision et automatisation. Mon terrain d'expérimentation : une infrastructure de serveurs Minecraft évolutive. Mon parcours professionnel comprend également l'administration Windows Server, la gestion des accès et le support informatique.
 
-Passionné par l'administration systèmes et réseaux, je conçois et exploite des infrastructures Linux en autonomie : serveurs linux, conteneurs Docker, supervision et automatisation. Mon terrain d'expérimentation : une infrastructure de serveurs Minecraft scalable.
+## Ce que je fais
 
-## 🛠️ Ce que je fais
+- Administration : Linux, Debian, Windows Server, Active Directory, groupes et GPO.
+- Conteneurs et virtualisation : Docker, Docker Compose, Kubernetes (K8s), Proxmox, Hyper-V et VMware.
+- Réseau et sécurité : TCP/IP, VLAN, DHCP, DNS, reverse proxy Nginx, pare-feu et durcissement SSH.
+- Supervision, sauvegardes et support : Grafana, journaux, Acronis/Synology, diagnostic et résolution d'incidents.
+- Développement : plugins Java, bots Discord, scripts Python et shell.
+- DevOps : Git, GitLab et pipelines CI/CD ; GitHub Actions en cours d'apprentissage.
 
-- **Administration Linux**: VPS et serveurs Debian, durcissement SSH, gestion des accès et des mises à jour
-- **Conteneurs et déploiement**: Docker, Docker Compose, K8s
-- **Réseau et proxy**: Velocity, reverse proxy Nginx, règles de pare-feu
-- **Supervision et dépannage**: métriques et dashboards avec Grafana, diagnostic et résolution d'incidents (performances, réseau, stockage, disponibilité des services)
-- **Développement**: plugins Java pour serveurs et proxy adaptés aux besoins de la communauté, bots Discord, scripts Python
-- **CI/CD**: GitHub Actions (en cours d'apprentissage)
+## Technologies et compétences
 
-## 🔭 En ce moment
+Outils utilisés et domaines de pratique ou d'apprentissage ; cette grille ne constitue pas une échelle de maîtrise. VirtualBox et matériel ajoutés à ma demande.
 
-- Montée en compétences sur le CI/CD et le durcissement sécurité
-- Observabilité : métriques et logs
-- Veille sur l'IA locale (LLM et multimodal)
-- Veille en cybersécurité et sur les nouvelles techniques de cyberdéfense propulsées par l'intelligence artificielle
+| Systèmes | Matériel | Virtualisation | Virtualisation | Virtualisation |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Linux](https://skillicons.dev/icons?i=linux)<br/>Linux | <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/cpu.svg" width="48" alt="Matériel"/><br/>Matériel | ![VirtualBox](https://cdn.simpleicons.org/virtualbox/2F61B4)<br/>VirtualBox | <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" width="48" alt="VMware"/><br/>VMware / vSphere | <img src="https://cdn.simpleicons.org/proxmox/E57000" width="48" alt="Proxmox"/><br/>Proxmox |
 
-## 📫 Me contacter
+| Systèmes | Conteneurs | Orchestration | Déploiement | Supervision |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Windows](https://skillicons.dev/icons?i=windows)<br/>Windows Server / AD / Hyper-V | ![Docker](https://skillicons.dev/icons?i=docker)<br/>Docker / Compose | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)<br/>Kubernetes (K8s) | ![Nginx](https://skillicons.dev/icons?i=nginx)<br/>Nginx | ![Grafana](https://skillicons.dev/icons?i=grafana)<br/>Grafana |
+
+| Développement | Développement | Développement | Automatisation | Systèmes |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Java](https://skillicons.dev/icons?i=java)<br/>Java | ![Node.js](https://skillicons.dev/icons?i=nodejs)<br/>Node.js | ![Python](https://skillicons.dev/icons?i=python)<br/>Python | ![Bash](https://skillicons.dev/icons?i=bash)<br/>Scripts shell / Bash | ![Debian](https://skillicons.dev/icons?i=debian)<br/>Debian |
+
+| Versionnement | Plateforme | CI/CD | CI/CD | Infrastructure |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Git](https://skillicons.dev/icons?i=git)<br/>Git | ![GitHub](https://skillicons.dev/icons?i=github)<br/>GitHub | ![GitLab](https://skillicons.dev/icons?i=gitlab)<br/>GitLab CI/CD | ![Actions](https://skillicons.dev/icons?i=githubactions)<br/>GitHub Actions — apprentissage | ![Terraform](https://skillicons.dev/icons?i=terraform)<br/>Terraform |
+
+| Base de données | Base de données | Web | Web | Web |
+| :---: | :---: | :---: | :---: | :---: |
+| ![MariaDB](https://skillicons.dev/icons?i=mysql)<br/>MariaDB / MySQL | ![PostgreSQL](https://skillicons.dev/icons?i=postgres)<br/>PostgreSQL | ![PHP](https://skillicons.dev/icons?i=php)<br/>PHP | ![HTML CSS](https://skillicons.dev/icons?i=html,css)<br/>HTML / CSS | ![JavaScript](https://skillicons.dev/icons?i=js)<br/>JavaScript |
+
+## En ce moment
+
+- Montée en compétences sur le CI/CD et le durcissement sécurité.
+- Observabilité : métriques et logs.
+- Veille sur l'IA locale (LLM et multimodal), la cybersécurité et la cyberdéfense assistée par l'IA.
+
+## Me contacter
 
 Ouvert aux opportunités en administration systèmes/réseaux, support N2 et DevOps junior.
 Écris-moi par [email](mailto:sebastiengamepvp@gmail.com) ou sur LinkedIn.
 
 ---
 
-# 🇬🇧 English
+# English
 
-## 👨‍💻 About
+## About
 
-Passionate about systems and network administration, I design and run Linux infrastructure on my own: Linux servers, Docker containers, monitoring and automation. My testing ground is a scalable Minecraft server infrastructure.
+Passionate about systems and network administration, I independently design and operate Linux infrastructure: Debian servers, Docker containers, monitoring and automation. My testing ground is a scalable Minecraft server infrastructure. My professional background also includes Windows Server administration, access management and IT support.
 
-## 🛠️ What I do
+## What I do
 
-- **Linux administration**: Debian VPS and servers, SSH hardening, access management and updates
-- **Containers and deployment**: Docker, Docker Compose, K8s
-- **Network and proxy**: Velocity, Nginx reverse proxy, firewall rules
-- **Monitoring and troubleshooting**: metrics and dashboards with Grafana, incident diagnosis and resolution (performance, network, storage, service availability)
-- **Development**: Java plugins for servers and proxy tailored to community needs, Discord bots, Python scripts
-- **CI/CD**: GitHub Actions (currently learning)
+- Administration: Linux, Debian, Windows Server, Active Directory, groups and GPOs.
+- Containers and virtualization: Docker, Docker Compose, Kubernetes (K8s), Proxmox, Hyper-V and VMware.
+- Networking and security: TCP/IP, VLANs, DHCP, DNS, Nginx reverse proxy, firewalls and SSH hardening.
+- Monitoring, backups and support: Grafana, logs, Acronis/Synology, incident diagnosis and resolution.
+- Development: Java plugins, Discord bots, Python and shell scripts.
+- DevOps: Git, GitLab and CI/CD pipelines; currently learning GitHub Actions.
 
-## 🔭 Currently
+## Technologies and skills
 
-- Building skills in CI/CD and security hardening
-- Observability: metrics and logs
-- Exploring local AI (LLM and multimodal)
-- Monitoring cybersecurity and new AI-powered cyber defense techniques
+Tools used and areas of practice or learning; this grid is not a proficiency scale. VirtualBox and hardware included at my request.
 
-## 📫 Contact
+| Systems | Hardware | Virtualization | Virtualization | Virtualization |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Linux](https://skillicons.dev/icons?i=linux)<br/>Linux | <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/cpu.svg" width="48" alt="Hardware"/><br/>Hardware | ![VirtualBox](https://cdn.simpleicons.org/virtualbox/2F61B4)<br/>VirtualBox | <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" width="48" alt="VMware"/><br/>VMware / vSphere | <img src="https://cdn.simpleicons.org/proxmox/E57000" width="48" alt="Proxmox"/><br/>Proxmox |
+
+| Systems | Containers | Orchestration | Deployment | Monitoring |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Windows](https://skillicons.dev/icons?i=windows)<br/>Windows Server / AD / Hyper-V | ![Docker](https://skillicons.dev/icons?i=docker)<br/>Docker / Compose | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)<br/>Kubernetes (K8s) | ![Nginx](https://skillicons.dev/icons?i=nginx)<br/>Nginx | ![Grafana](https://skillicons.dev/icons?i=grafana)<br/>Grafana |
+
+| Development | Development | Development | Automation | Systems |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Java](https://skillicons.dev/icons?i=java)<br/>Java | ![Node.js](https://skillicons.dev/icons?i=nodejs)<br/>Node.js | ![Python](https://skillicons.dev/icons?i=python)<br/>Python | ![Bash](https://skillicons.dev/icons?i=bash)<br/>Shell scripting / Bash | ![Debian](https://skillicons.dev/icons?i=debian)<br/>Debian |
+
+| Version control | Platform | CI/CD | CI/CD | Infrastructure |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Git](https://skillicons.dev/icons?i=git)<br/>Git | ![GitHub](https://skillicons.dev/icons?i=github)<br/>GitHub | ![GitLab](https://skillicons.dev/icons?i=gitlab)<br/>GitLab CI/CD | ![Actions](https://skillicons.dev/icons?i=githubactions)<br/>GitHub Actions — learning | ![Terraform](https://skillicons.dev/icons?i=terraform)<br/>Terraform |
+
+| Database | Database | Web | Web | Web |
+| :---: | :---: | :---: | :---: | :---: |
+| ![MariaDB](https://skillicons.dev/icons?i=mysql)<br/>MariaDB / MySQL | ![PostgreSQL](https://skillicons.dev/icons?i=postgres)<br/>PostgreSQL | ![PHP](https://skillicons.dev/icons?i=php)<br/>PHP | ![HTML CSS](https://skillicons.dev/icons?i=html,css)<br/>HTML / CSS | ![JavaScript](https://skillicons.dev/icons?i=js)<br/>JavaScript |
+
+## Currently
+
+- Building skills in CI/CD and security hardening.
+- Observability: metrics and logs.
+- Exploring local AI (LLM and multimodal), cybersecurity and AI-assisted cyber defense.
+
+## Contact
 
 Open to opportunities in systems/network administration, L2 support and junior DevOps roles.
 Reach me by [email](mailto:sebastiengamepvp@gmail.com) or on LinkedIn.
 
 ---
 
-## 🧰 Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="130"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60" alt="Linux"/><br/>Linux</a></td>
-    <td align="center" width="130"><a href="https://www.debian.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="60" height="60" alt="Debian"/><br/>Debian</a></td>
-    <td align="center" width="130"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/><br/>Docker</a></td>
-    <td align="center" width="130"><a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="60" height="60" alt="Kubernetes"/><br/>Kubernetes</a></td>
-    <td align="center" width="130"><a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="60" height="60" alt="Nginx"/><br/>Nginx</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://grafana.com"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="60" height="60" alt="Grafana"/><br/>Grafana</a></td>
-    <td align="center"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" alt="Java"/><br/>Java</a></td>
-    <td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/><br/>Python</a></td>
-    <td align="center"><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" alt="Git"/><br/>Git</a></td>
-    <td align="center"><a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="60" height="60" alt="GitHub Actions"/><br/>GitHub Actions</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://mariadb.org/"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="60" height="60" alt="MariaDB"/><br/>MariaDB</a></td>
-    <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL"/><br/>MySQL</a></td>
-    <td align="center"><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/><br/>Node.js</a></td>
-    <td align="center"><a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="60" height="60" alt="Bash"/><br/>Shell Scripting</a></td>
-    <td align="center"><a href="https://github.com/sebpvp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/><br/>GitHub</a></td>
-  </tr>
-</table>
-
-## 📊 GitHub
+## GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sebpvp&show_icons=true" alt="GitHub stats" />
